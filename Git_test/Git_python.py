@@ -28,3 +28,4 @@ if __name__ == '__main__':
         print('hot-fix test')
         print('master test')
         # master2
+        # hot-fix2
