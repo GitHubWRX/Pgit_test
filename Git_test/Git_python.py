@@ -25,3 +25,4 @@ if __name__ == '__main__':
         print('test')
         print('gaga')
         print('test33')
+        print('hot-fix test')
