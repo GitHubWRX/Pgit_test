@@ -22,3 +22,4 @@ if __name__ == '__main__':
     s = 'hehe'
     for i in s:
         print(i)
+        print('test')
