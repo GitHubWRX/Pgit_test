@@ -16,3 +16,5 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 # maybe, the head is the current branch, and master pointed to itself version, 
 # if new branch not modified, it will point to master's version too.
+
+# now modify test again, I predict the head will still point to the test, but newest version.
