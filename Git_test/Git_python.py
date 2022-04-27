@@ -18,3 +18,7 @@ if __name__ == '__main__':
     pass
     print('first_commit')
     print('second_commit')
+    print('heihei')
+    s = 'hehe'
+    for i in s:
+        print(i)
