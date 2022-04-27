@@ -23,3 +23,4 @@ if __name__ == '__main__':
     for i in s:
         print(i)
         print('test')
+        print('gaga')
