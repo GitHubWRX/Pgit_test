@@ -16,4 +16,5 @@ class A(object):
 
 if __name__ == '__main__':
     pass
-    print('hello git')
+    print('first_commit')
+    print('second_commit')
